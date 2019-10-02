@@ -1,8 +1,12 @@
 ---
 title: "About me"
 ---
+Surname : Alexi
 
+First name : Ronneau
 
-This section also must include: 
+Teacher's name : Ingrid Van Lancker
 
-- first name/surname, teacher’s name, class name and academic year
+Class name : Biology
+
+Academic year : 2019-2020
