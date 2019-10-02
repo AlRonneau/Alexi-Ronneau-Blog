@@ -14,5 +14,6 @@ navbar:
 base_url:  https://AlRonneau.github.io/Alexi-Ronneau-blog/ 
 collections:
     posts:
+      disqus: alexs-blog-5
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
