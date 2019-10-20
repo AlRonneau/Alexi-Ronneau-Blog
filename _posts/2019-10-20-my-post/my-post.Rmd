@@ -11,6 +11,8 @@ output:
     self_contained: false
 ---
 
+ ![](/home/sv/Downloads/Le-nucleaire-article-1.jpg)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -47,11 +49,11 @@ II - VOCABULARY:
 III - ANALYSIS TABLE ABOUT THE STUDY: 
 
 **Researchers?**
-
+the autor of the article : Mark Fischetti
 **Published in? when (if mentioned)?**
-
+Published in Scientific American on July 1, 2019
 **General topic**
-
+Nuclear Reactors getting safer
 **Procedure/what was examined**
 
 **Conclusions/discovery**
