@@ -1,0 +1,28 @@
+---
+title: "Article 1: Safer Nuclear Reactors Are on the Way"
+description: |
+  Resilient fuels and innovative reactors could enable a resurgence of nuclear power
+author:
+  - name: Alexi Ronneau
+    url: {}
+date: 10-20-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.scientificamerican.com/article/safer-nuclear-reactors-are-on-the-way/    By Mark Fischetti on July 1, 2019
+
+Word count: 568 words
+
+II - VOCABULARY: 
+
+
+III - ANALYSIS TABLE ABOUT THE STUDY: 
+
