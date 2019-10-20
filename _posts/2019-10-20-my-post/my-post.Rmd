@@ -25,26 +25,26 @@ Word count: 568 words
 
 II - VOCABULARY: 
 
-| Word from the text | Synonym/definition in English | French translation                     |
-| ------------------ | ----------------------------- | -------------------------------------- |
-| Resilient          |                               | Elastique / resistant                  |
-| Pellets of uranium |                               | Boulettes d'uranium                    |
-| Readily            |                               | Facilement / aisément                  |
-| Self-sustaining    |                               | Auto nutritif / se nourissant lui même |
-| Meltdown           |                               | Fusion                                 |
-| Hastening          |                               | Precipiter / accelerer                 |
-| Slipped            | Slide                         | Glissait                               |
-| Phase              | Step                          | Etape                                  |
-| Squelch            | Crush                         | Ecraser                                |
-| Overheating        |                               | Echauffement                           |
-| Coolant            |                               | Caloporteur                            |
-| Molten             |                               | En fusion                              |
-| Intends            |                               | Avoir l'intention                      |
-| Grid               |                               | Grille                                 |
-| Lack               |                               | Manque                                 |
-| Repository         |                               | Entrepot / dépot                       |
-| Waste              |                               | Gaspiller                              |
-| Touted             |                               | Revendu                                |
+| Word from the text | Synonym/definition in English                                                                | French translation                             |
+| ------------------ | -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Resilient          | Elastic, springy, flexible,... / having resilience                                           | Elastique / resistant                          |
+| Pellets of uranium | Pill, bullet,... / a small ball                                                              | Boulettes d'uranium                            |
+| Readily            | Willingly, gladly, happily,...                                                               | Facilement / aisément / volontier / rapidement |
+| Self-sustaining    | /                                                                                            | Autonome / indépendant                         |
+| Meltdown           | The melting of the core of a nuclear reactor , due to inadequate cooling of the fuel element | Fusion                                         |
+| Hastening          | Rush, move quickly,... / to move or act with haste                                           | Precipiter / accelerer                         |
+| Slip               | Slide, skid,... / to became involved or absorbed easily                                      | Glisser                                        |
+| Phase              | Stage, period, step, part,... / a stage in process of change or development                  | Etape                                          |
+| Squelch            | Crush, censure, suppress,... / to supress or silence, as with force or a crushing response   | Ecraser                                        |
+| Overheating        | Heat to much,... / to become too hot or be heated too much                                   | Echauffement / surchauffer                     |
+| Coolant            | A substance used to reduce the temperature of a system below a certain value                 | Liquide de refroidissement                     |
+| Molten             | Heated, melted, fused,... / liquefied by heat                                                | En fusion                                      |
+| Intend             | Have in mind, plan,... / to have in mind as something to be done                             | Avoir l'intention                              |
+| Grid               | Grate, grill,... / a grating of crossed bars                                                 | Grille                                         |
+| Lack               | Require, need, want, be missing,... / absence of something needed or desirable               | Manque / pénurie                               |
+| Repository         | Depository, container,... / a container or a place where things are deposited and stored     | Entrepot / dépot                               |
+| Waste              | To use up or spend to no profit                                                              | Gaspiller                                      |
+| Touted             | ????                                                                                         | Revendu                                        |
 
 III - ANALYSIS TABLE ABOUT THE STUDY: 
 
@@ -66,7 +66,7 @@ Nuclear Reactors getting safer
 
 **Conclusions/discovery**
 
-
+Improved fuels and growth in small reactors could be a big part of a nuclear power rebirth.
 
 **Remaining questions**
 
