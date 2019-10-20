@@ -17,13 +17,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
 Source of the article: https://www.scientificamerican.com/article/safer-nuclear-reactors-are-on-the-way/    By Mark Fischetti on July 1, 2019
 
 Word count: 568 words
 
-II - VOCABULARY: 
+## VOCABULARY: 
 
 | Word from the text | Synonym/definition in English                                                                | French translation                             |
 | ------------------ | -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -46,7 +46,7 @@ II - VOCABULARY:
 | Waste              | To use up or spend to no profit                                                              | Gaspiller                                      |
 | Touted             | ????                                                                                         | Revendu                                        |
 
-III - ANALYSIS TABLE ABOUT THE STUDY: 
+## ANALYSIS TABLE ABOUT THE STUDY: 
 
 **Researchers?**
 
@@ -62,7 +62,7 @@ Nuclear Reactors getting safer
 
 **Procedure/what was examined**
 
-
+Some industry are hastening development of so-called accident-tolerant fuels that are less able to overheat, and if it work, it will produce very little or no hydrogen. So with this type of fuel, the reactor should not explode anymore.
 
 **Conclusions/discovery**
 
