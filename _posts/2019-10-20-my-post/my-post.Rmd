@@ -23,6 +23,38 @@ Word count: 568 words
 
 II - VOCABULARY: 
 
+| Word from the text | Synonym/definition in English | French translation                     |
+| ------------------ | ----------------------------- | -------------------------------------- |
+| Resilient          |                               | Elastique / resistant                  |
+| Pellets of uranium |                               | Boulettes d'uranium                    |
+| Readily            |                               | Facilement / aisément                  |
+| Self-sustaining    |                               | Auto nutritif / se nourissant lui même |
+| Meltdown           |                               | Fusion                                 |
+| Hastening          |                               | Precipiter / accelerer                 |
+| Slipped            | Slide                         | Glissait                               |
+| Phase              | Step                          | Etape                                  |
+| Squelch            | Crush                         | Ecraser                                |
+| Overheating        |                               | Echauffement                           |
+| Coolant            |                               | Caloporteur                            |
+| Molten             |                               | En fusion                              |
+| Intends            |                               | Avoir l'intention                      |
+| Grid               |                               | Grille                                 |
+| Lack               |                               | Manque                                 |
+| Repository         |                               | Entrepot / dépot                       |
+| Waste              |                               | Gaspiller                              |
+| Touted             |                               | Revendu                                |
 
 III - ANALYSIS TABLE ABOUT THE STUDY: 
+
+**Researchers?**
+
+**Published in? when (if mentioned)?**
+
+**General topic**
+
+**Procedure/what was examined**
+
+**Conclusions/discovery**
+
+**Remaining questions**
 
