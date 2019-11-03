@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
-Source of the article: https://www.scientificamerican.com/article/safer-nuclear-reactors-are-on-the-way/    By Mark Fischetti on July 1, 2019
+Source of the article: https://www.scientificamerican.com/article/safer-nuclear-reactors-are-on-the-way/    By Mark Fischetti (July 1, 2019)
 
 Word count: 568 words
 
