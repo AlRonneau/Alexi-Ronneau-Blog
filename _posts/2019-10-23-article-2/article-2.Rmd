@@ -23,7 +23,19 @@ Word count: 352 words
 
 ## VOCABULARY: 
 
-
+| Word from the text | synonym/definition in English             | French translation                    |
+| ------------------ | ----------------------------------------- | ------------------------------------- |
+| insight            | uncountable (profound perception)         | perspicacité, vision                  |
+| gauge              | (measure) (estimate)                      | jauger, mesurer                       |
+| whereas            | (while in contrast)                       | tandis que, alors que                 |
+| flood              | (water)                                   | inonder                               |
+| defect             | (imperfection)                            | défaut                                |
+| glow               | (light)                                   | lueur                                 |
+| wavelength         | (physics: distance between waves)         | longueur d'ondes                      |
+| reshuffling        | (reorganization of roles)                 | remaniement, réorganisation           |
+| whether            | (if)                                      | si                                    |
+| induced            | as suffix (caused by the thing specified) | provoqué par [qch], causé par [qch]   |
+| facility           | (building, unit)                          | établissement, installation, complexe |
 
 ## ANALYSIS TABLE ABOUT THE STUDY:
 
