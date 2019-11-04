@@ -45,6 +45,8 @@ The autor of the article: Maria Temming
 
 Maria Temming is the staff reporter for physical sciences, covering everything from chemistry to computer science and cosmology. She has bachelor's degrees in physics and English, and a master's in science writing.
 
+the coauthor Robert Heyes :  a nuclear engineer at North Carolina State University in Raleigh
+
 **Published in? when (if mentioned)?**
 
 Published in sciencenews on January 14, 2019
@@ -55,6 +57,13 @@ In the Chemistery Topic
 
 **Procedure/what was examined**
 
+The scientists tested their technique by blasting surface mount resistors
+with differents quantity of grays (units of the radiation)
+
 **Conclusions/discovery**
 
+A phone can reveal the radiation exposure after a uclear disaster and it can help to save people 
+
 **Remaining questions**
+
+
