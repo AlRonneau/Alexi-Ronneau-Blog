@@ -1,0 +1,53 @@
+---
+title: "Article 3: Six degrees of nuclear separation"
+description: |
+  For the first time, scientists have printed 3D parts that pave the way to recycling up to 97 percent of the waste produced by nuclear reactors.
+author:
+  - name: Alexi Ronneau
+    url: {}
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: 
+DOE/Argonne National Laboratory. "Six degrees of nuclear separation." ScienceDaily. ScienceDaily, October 11, 2019. <www.sciencedaily.com/releases/2019/10/191011131901.htm>.
+
+
+Word count: 723 words
+
+## VOCABULARY: 
+
+| Word from the text | Synonym/definition in English | French translation                                 |
+| ------------------ | ----------------------------- | -------------------------------------------------- |
+| Pave               | (surface: a path, road)       | Paver / daller                                     |
+| toward             | (in the direction of)         | Vers                                               |
+| poised             | (in position, ready)          | Prêt                                               |
+| reap               | (farming: harvest)            | moissonner, dégager (sens : dégager des benefices) |
+| glance             | (glimpse)                     | coup d'œil                                         |
+| blueprint          | (architectural plan)          | plan                                               |
+| contactor          | (electricity: switch)         | contacteur                                         |
+| blend              | (mixture)                     | mélange                                            |
+| divert             | (reroute)                     | dévier                                             |
+
+## ANALYSIS TABLE ABOUT THE STUDY:
+
+**Researchers?**
+
+**Published in? when (if mentioned)?**
+
+**General topic**
+
+**Procedure/what was examined**
+
+**Conclusions/discovery**
+
+**Remaining questions**
+
