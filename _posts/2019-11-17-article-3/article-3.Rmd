@@ -18,7 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
 Source of the article: 
-DOE/Argonne National Laboratory. "Six degrees of nuclear separation." ScienceDaily. ScienceDaily, October 11, 2019. <www.sciencedaily.com/releases/2019/10/191011131901.htm>.
+DOE/Argonne National Laboratory. "Six degrees of nuclear separation." ScienceDaily. ScienceDaily, October 11, 2019. 
+https://www.sciencedaily.com/releases/2019/10/191011131901.htm
 
 
 Word count: 723 words
@@ -53,11 +54,11 @@ Matter and energy
 
 **Procedure/what was examined**
 
-
+They saw that additive manufacturing could help us recycle used nuclear fuel more efficiently.
 
 **Conclusions/discovery**
 
-
+By following 36 steps of blueprint separation, they could remove 99.9 prcents of the actanides from the lanthanides, and reduce dramaticaly the used nuclear fuel.
 
 **Remaining questions**
 
