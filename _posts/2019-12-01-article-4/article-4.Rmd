@@ -1,0 +1,71 @@
+---
+title: "Article 4 : Alert system for failing nuclear plant pipes uses thin films and sound vibrations"
+description: |
+  The objective is to detect the changes in the polymer film that happening inside the pipe
+author:
+  - name: Alexi Ronneau
+    url: {}
+date: 12-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://phys.org/news/2019-10-nuclear-pipesuses-thin-vibrations.html    Pamela Coyle, Vanderbilt University (October 28, 2019)
+
+Word count: 481 words
+
+## VOCABULARY:
+
+| Word from the text | Synonym/definition in English   | French translation |
+| ------------------ | ------------------------------- | ------------------ |
+| plant              | (factory) /                     | usine              |
+| puddle             | (form into puddle)              | former une flaque  |
+| burst              | (explode)                       | éclater            |
+| stake              | (stick)                         | poteau             |
+| aging              | (process of getting old)        | vieillissement     |
+| coating            | (covering)                      | couche             |
+| occur              | (happen)                        | se produire        |
+| chelate            | (chemistry: compound)           | chélate            |
+| bound              | figurative (legally obligated)  | lié à              |
+| leak               | (escaping fluid)                | fuite              |
+| fatality           | (fatal incident)                | accident mortel    |
+| among              | (in the midst of)               | au milieu de       |
+
+## ANALYSIS TABLE ABOUT THE STUDY:
+
+**Researchers?**
+
+-Graduate students in chemical, mechanical and civil engineering
+
+-Doug Adams, Daniel F. 
+
+-Flowers Professor and chair of the Department of Civil and Environmental Engineering, was the principal investigator. 
+
+-Jennings
+
+**Published in? when (if mentioned)?**
+
+Published on Phys.org in the general physics topic on October 28, 2019
+
+**General topic**
+
+Phhsics / General Physics
+
+**Procedure/what was examined**
+
+They project to put polymer coatings on the inside of the pipe in the nuclear power plant to signal the changes on the outside of the pipe, and to avoid accidents
+
+**Conclusions/discovery**
+
+They will begin by coating cooling pipe on the junctions and on the connections.
+
+**Remaining questions**
+
+/
