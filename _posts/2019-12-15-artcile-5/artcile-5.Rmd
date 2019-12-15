@@ -1,0 +1,64 @@
+---
+title: "Artcile 5 : Researchers perfect nanoscience tool for studies of nuclear waste storage"
+description: |
+  Studying radiation chemistry and electronic structure of materials at scales smaller than nanometers, scientists prepared samples of clay in ultra-thin layers. Working at the TRIUMF particle accelerator, they bombarded the samples with antimatter subatomic particles. They found their system is a proven tool for radiation studies of material to be used to store nuclear waste -- important for Canadian nuclear industry looking to build its first geological repository.
+author:
+  - name: Alexi Ronneau
+    url: {}
+date: 12-15-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.sciencedaily.com/releases/2019/12/191212141919.htm University of Guelph, December 12, 2019
+
+Word count: 481 words
+
+## VOCABULARY:
+
+| Word from the text | Synonym/definition in English         | French translation              |
+| ------------------ | ------------------------------------- | ------------------------------- |
+| reuse              | (use again)                           | réutiliser                      |
+| spinoff            | ([sth] that develops from [sth] else) | produit dérivé                  |
+| ultimately         | (basically)                           | en fin de compte, en définitive |
+| vault              | (architecture: arch)                  | voûte                           |
+| bundle             | (bunch, group)                        | paquet                          |
+| repository         | (storage place)                       | entrepôt                        |
+| entomb             | formal (bury: a dead body)            | inhumer                         |
+| provide [sth]      | (furnish, supply)                     | (apporter)fournir               |
+| sample             | (representative piece)                | échantillon                     |
+| intriguing         | (interesting)                         | fascinant                       |
+| compound           | (combination)                         | mélange                         |
+
+## ANALYSIS TABLE ABOUT THE STUDY:
+
+**Researchers?**
+
+University of Guelph
+
+**Published in? when (if mentioned)?**
+
+December 12, 2019
+
+**General topic**
+
+Nuclear energy
+
+**Procedure/what was examined**
+
+
+
+**Conclusions/discovery**
+
+
+
+**Remaining questions**
+
+/
