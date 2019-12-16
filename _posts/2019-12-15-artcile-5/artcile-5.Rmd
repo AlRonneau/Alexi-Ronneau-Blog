@@ -45,7 +45,7 @@ University of Guelph
 
 **Published in? when (if mentioned)?**
 
-December 12, 2019
+Published in Sciencedaily on December 12, 2019
 
 **General topic**
 
@@ -53,11 +53,12 @@ Nuclear energy
 
 **Procedure/what was examined**
 
-
+It takes almost 100,000 years for radioactivity from nuclear waste to return to the level of natural uranium in the ground.
+Experts aim to use deep geological repositories to permanently entomb the material. Buried in rock formations hundreds of metres underground, the fuel containers would be held in engineered and natural barriers such as clays to shield people and the environment from radiation.
 
 **Conclusions/discovery**
 
-
+The research team's findings provide a new way to study sub-nano materials and chemical processes in confined environments.
 
 **Remaining questions**
 
