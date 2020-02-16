@@ -1,0 +1,68 @@
+---
+title: "Article 6: Molecule modification could improve reprocessing of spent nuclear fuel"
+description: |
+  The reprocessing of spent nuclear fuel could become safer and more efficient in future after researchers found a way to modify the structure of molecules to remove radioactive materials.
+author:
+  - name: Alexi Ronneau
+    url: {}
+date: 02-16-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.sciencedaily.com/releases/2020/01/200129104739.htm
+Northumbria University, January 29, 2020
+
+Word count: 651 words
+
+## VOCABULARY:
+
+| Word from the text | Synonym/definition in English               | French translation      |
+| ------------------ | ------------------------------------------- | ----------------------- |
+| reprocess          | (repurpose, prepare for new use)            | reconvertir             |
+| disposed to        | (inclined, tending)                         | enclin à [qch]          |
+| pond               | (small lake)                                | étang                   |
+| disposal           | (throwing out)                              | élimination / rejet     |
+| sustainability     | (ecology: renewability)                     | durabilité              |
+| manageable         | (able to be managed)                        | gérable                 |
+| harmful            | (substance) (substance, produits chimiques) | nocif, nocive           |
+| bind               | (tie, fasten securely)                      | attacher / nouer / lier |
+| insight            | (profound perception)                       | perspicacité / vision   |
+| trial              | (experimental attempt)                      | essai                   |
+| tuning             | / / / / / / / /                             | mise au point           |
+| ligand             | (chemistry: element)                        | ligand                  |
+
+## ANALYSIS TABLE ABOUT THE STUDY:
+
+**Researchers?**
+
+Researchers from Northumbria University.
+
+**Published in? when (if mentioned)?**
+
+Northumbria University. "Molecule modification could improve reprocessing of spent nuclear fuel." ScienceDaily. ScienceDaily, 29 January 2020. 
+
+The research is published in a recent edition of the influential Chemistry -- A European Journal (7th January 2020)
+
+**General topic**
+
+Matter and energy (nuclear energy)
+
+**Procedure/what was examined**
+
+The reprocessing of spent nuclear fuel could become safer and more efficient in future after researchers found a way to modify the structure of molecules to remove radioactive materials.
+
+**Conclusions/discovery**
+
+"The knowledge and insights we have gained by tuning the cyclic aliphatic part of these molecules could pave the way for the rational design of improved actinide selective ligands for reprocessing spent nuclear fuels. Modifying these molecules in different ways to improve their extraction properties could make future reprocessing more efficient and could be essential if they are to be used industrially in future."
+
+**Remaining questions**
+
+/
