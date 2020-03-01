@@ -1,0 +1,68 @@
+---
+title: "Article 7: Rolls-Royce plans mini nuclear reactors by 2029"
+description: |
+  Mini nuclear reactors could be generating power in the UK by the end of the decade.
+author:
+  - name: Alexi Ronneau
+    url: {}
+date: 03-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+Source of the article: https://www.bbc.com/news/business-51233444 
+bbc January 24, 2020 By Roger Harrabin & Katie Prescott
+
+Word count: 470 words
+
+## VOCABULARY:
+
+| Word from the text | Synonym/definition in English      | French translation            |
+| ------------------ | ---------------------------------- | ----------------------------- |
+| lorry              | UK (heavy vehicle: large truck)    | camion                        |
+| offshore           | (in sea)                           | en mern au large              |
+| consortium         | (association, union)               | consortium                    |
+| modular            | (consisting of parts)              | modulaire                     |
+| former             | (previous, one time, ex)           | ex- , ancien, ancienne        |
+| acre               | usually plural (and mesure: 4047m² | quarantes ares / demi-hectare |
+| struggle           | (difficult endeavour)              | épreuve                       |
+| plummet            | (fall rapidly)                     | chute                         |
+| welding            | (act of fusing metal)              | soudage                       |
+| bolted             | (locked with bolt)                 | verrouillé / boulonné         |
+| overstated         | (exaggerated)                      | exagéré                       |
+| throughout         | (time: during all of)              | tout au long de               |
+| fleet              | (ships, cars, trucks)              | flotte, série                 |
+| substantial        | (large quantity of)                | considérable, important       |
+
+## ANALYSIS TABLE ABOUT THE STUDY:
+
+**Researchers?**
+
+Searchers from Rolls-Royce industry
+
+**Published in? when (if mentioned)?**
+
+In BBC January 24, 2020
+
+**General topic**
+
+Business
+
+**Procedure/what was examined**
+
+/
+
+**Conclusions/discovery**
+
+Build small modular reactors (SMRs) and install them in former nuclear sites in Cumbria or in Wales. Ultimately, the company thinks it will build between 10 and 15 of the stations in the UK.
+
+**Remaining questions**
+
+/

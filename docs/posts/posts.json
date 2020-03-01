@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-01-article-7t/",
+    "title": "Article 7: Rolls-Royce plans mini nuclear reactors by 2029",
+    "description": "Mini nuclear reactors could be generating power in the UK by the end of the decade.",
+    "author": [
+      {
+        "name": "Alexi Ronneau",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-01T23:37:24+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article-6/",
     "title": "Article 6: Molecule modification could improve reprocessing of spent nuclear fuel",
     "description": "The reprocessing of spent nuclear fuel could become safer and more efficient in future after researchers found a way to modify the structure of molecules to remove radioactive materials.",
